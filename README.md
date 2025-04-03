@@ -2,7 +2,7 @@
 
 ## Project info
 
-
+- [Redirect to web](https://profile-mapper.netlify.app/)
 ## How can I edit this code?
 
 There are several ways of editing your application.
